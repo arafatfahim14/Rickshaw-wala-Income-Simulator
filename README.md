@@ -16,3 +16,6 @@ Current Limitation:
 3. Static Fare Calculation: The fare calculation might use a base fare and distance segments, which is a simplified approach. Real-world fares might consider factors like traffic congestion or time of day.
 
 4. No Real-time Integration: The program might not integrate with real-time traffic data or map APIs. This would limit the accuracy of distance calculations and estimated travel time.
+
+
+Author : Arafat Rahman Fahim 
